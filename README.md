@@ -4,33 +4,43 @@
 The model has an accuracy of 0.98
 
 Classify 0
+
 ![alt text](img/image-3.png)
 
 Classify 1
+
 ![alt text](img/image-1.png)
 
 Classify 2
+
 ![alt text](img/image-2.png)
 
 Classify 3
+
 ![alt text](img/image-4.png)
 
 Classify 4
+
 ![alt text](img/image-5.png)
 
 Classify 5
+
 ![alt text](img/image-6.png)
 
 Classify 6
+
 ![alt text](img/image-7.png)
 
 Classify 7
+
 ![alt text](img/image-8.png)
 
 Classify 8
+
 ![alt text](img/image-9.png)
 
 Classify 9
+
 ![alt text](img/image-10.png)
 
 # How to Run
