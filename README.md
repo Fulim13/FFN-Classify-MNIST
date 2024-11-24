@@ -1,6 +1,7 @@
 # Result
 
 ![alt text](img/image.png)
+
 The model has an accuracy of 0.98
 
 Classify 0
@@ -75,5 +76,7 @@ python3 app.py
 python3 test.py
 ```
 
+
 model.py is the file that contains the model
+
 train.py is the the training of the model, you can feel feel to adjust hyperparameters to get a better accuracy
